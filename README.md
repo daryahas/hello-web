@@ -3,6 +3,9 @@
 You can use the [editor on GitHub](https://github.com/daryahas/hello-web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 [what is web design] (https://github.com/daryahas/hello-web/blob/master/new%20-%20md%20%22what%20is%20web%20design%22 )
+
+[ people of interest] (https://github.com/daryahas/hello-web/blob/master/%22people%20of%20interest%22)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
